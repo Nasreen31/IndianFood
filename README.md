@@ -38,29 +38,52 @@ Website is responsive on all screen sizes and no images are pixelated or stretch
 
 #Functional Testing
 Navigation links	Page to load
- Home	--------------------------------------------index.html
-Chicken Biryani-----------------------------------Chickenbiryani.html
-Mutton Biryani-------------------------------------Muttonbiryani.html
-Arabic Lamb Manthi Rice-----------------------------Mandi.html
-Chicken Cusa Rice------------------------------------Cubsa.html
-Mutton Kurma-----------------------------------------kurma.html
-Fish Curry-------------------------------------------fihshcurry.html
-Goat Leg curry----------------------------------------paya.html
-Goat Leg Soup-----------------------------------------soup.html
-Prawn Pepper Fry---------------------------------------prawnpeperfry.html
-Prawn Sukka--------------------------------------------prawnsukka.html-
-Egg Gravy----------------------------------------------egg.html
-Chicken 65--------------------------------------------chicken65.html
-Fish Fry----------------------------------------------fishfry.html
-Curdrice---------------------------------------------curdrice.html
-Paneer BUtter Masala---------------------------------paneer.html
-Dosa-------------------------------------------------Dosa.html
-pongal-------------------------------------------pongal.html
-puri and potato masal-----------------------------puri.html
-Indian Wheat wrap---------------------------------poratta.html
-Egg kothu poratta---------------------------------kothu.html
-Gulab Jamun---------------------------------------jamun.html
-Sheerkurma----------------------------------------kheer.html
+
+ Home	---------------------index.html
+ 
+Chicken Biryani------------Chickenbiryani.html
+
+Mutton Biryani------------Muttonbiryani.html
+
+Arabic Lamb Manthi Rice------Mandi.html
+
+Chicken Cusa Rice-----------Cubsa.html
+
+Mutton Kurma-------------kurma.html
+
+Fish Curry------------fihshcurry.html
+
+Goat Leg curry-----------paya.html
+
+Goat Leg Soup-----------soup.html
+
+Prawn Pepper Fry----------prawnpeperfry.html
+
+Prawn Sukka---------------prawnsukka.html
+
+Egg Gravy-----------------egg.html
+
+Chicken 65----------------chicken65.html
+
+Fish Fry-----------------fishfry.html
+
+Curdrice----------------curdrice.html
+
+Paneer BUtter Masala---------- paneer.html
+
+Dosa--------------------Dosa.html
+
+pongal-----------------pongal.html
+
+puri and potato masal--------------puri.html
+
+Indian Wheat wrap-----------------poratta.html
+
+Egg kothu poratta---------------------kothu.html
+
+Gulab Jamun---------------------jamun.html
+
+Sheerkurma----------------------kheer.html
 
 #Footer
 #Social media link and icon
